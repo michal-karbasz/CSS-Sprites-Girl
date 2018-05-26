@@ -1,0 +1,32 @@
+SAD WORLD/ FADING WORLD 
+
+
+DESCRIPTION
+
+TECHNOLOGIES
+=>CANVAS
+=>SASS
+=>SCORE - JSON
+
+
+WORLD
+
+-> white, black & grey
+-> machines or postapocalyptic (broken trees, heal + color)
+-> grey sun - time setting
+-> before sunset paint trees and maybe add their name to prevent their death
+
+HERO 
+
+->Select Creature
+->Sad at the beginning,  happier with next levels
+->Holds paint buckets, tree healers
+->Seed trees
+
+POINTS
+->for each seeded tree (gr
+-> for each coloured object
+
+
+PYTANIA
+->responsywnoœæ
